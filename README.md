@@ -16,3 +16,5 @@ To win You have to avoid these objects either by flying or by kneeing
 The dinasour runing animation is beautiful as he switch between his legs.
 
 Your score is divided every 1000 step the upper number increment.
+
+https://user-images.githubusercontent.com/115042487/208157939-bc2e4fa3-6617-4090-b01d-fb26994a2ca2.mp4
